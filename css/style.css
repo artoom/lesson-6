@@ -1,0 +1,157 @@
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+body {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+
+.container {
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+	margin-bottom: 92px;
+}
+
+img {
+	max-width: 100%;
+	margin-bottom: 60px;
+}
+
+.paragraph-1,
+.paragraph-4 {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+}
+
+.paragraph-1,
+.paragraph-2,
+.paragraph-5,
+ul {
+	margin-bottom: 24px;
+}
+
+.text,
+.paragraph-4 {
+	margin-bottom: 48px;
+}
+
+.paragraph-4 {
+	padding-left: 58px;
+}
+
+.list li {
+	padding-left: 32px;
+}
+
+.paragraph-6 {
+	margin-bottom: 60px;
+}
+
+/* .block {
+	background-color: #77608d;
+}
+
+.inline {
+	background-color: #7A956B;
+} */
+
+
+/* .block {
+	opacity: 0.3;
+	margin: 15px;
+	padding: 15px;
+	visibility: hidden;
+	border-radius: 20px;
+	box-shadow: 20px 20px 20px 20px;
+} */
+
+/* .block-2 {
+	background-color: brown;
+	margin: 15px;
+	padding: 15px;
+	display: none;
+} */
+
+/* .link {
+	outline: 1px solid red;
+} */
+
+/* 
+.circle {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	margin: 0 auto 20px;
+	background-color: rgb(59, 24, 24);
+	box-shadow: inset 5px 5px 5px 2px #000;
+} */
+
+/* .inline {
+	border-radius: 10px;
+}
+
+img {
+	width: 200px;
+
+} */
+/* 
+.section {
+	background-color: rgb(58, 45, 70);
+	margin-bottom: 20px;
+}
+
+.section-text {
+	border: 10px solid green;
+	padding: 15px;
+}
+
+.section-2 {
+	background-color: rgb(106, 240, 106);
+	padding: 15px;
+} */
+
+/* .center-block {
+	background-color: rgb(39, 18, 18);
+	padding: 15px;
+	color: #fff;
+	margin: 0 auto;
+	max-width: 200px;
+} */
